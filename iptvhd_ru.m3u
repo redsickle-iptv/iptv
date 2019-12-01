@@ -52,3 +52,6 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 ,Кино HD
 #EXTGRP:Кино
 http://176.126.166.43:1935/live/312kino/playlist.m3u8
+#EXTINF:-1 group-title="XXX" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/197.png" tvg-name="HotClub 2 FHD Adult",HotClub 2 FHD Adult
+#EXTGRP:XXX
+http://185.59.221.130:80/live/Zn3UgNxZq77/6qYGad7c50/7685.m3u8
