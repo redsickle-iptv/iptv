@@ -30,7 +30,7 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1,Первый канал
 https://cdn10.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd?e=1575240239
-#EXTINF:-1,Первый канал HD
+#EXTINF:-1,Первый канал HD (+4)
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
 http://85.112.114.11:8086/udp/233.170.170.78:58631
