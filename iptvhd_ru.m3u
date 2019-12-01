@@ -31,7 +31,7 @@ http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1,Первый канал
 https://cdn10.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd?e=1575240239
 #EXTINF:-1,Первый канал HD
-http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
+https://edge1.1internet.tv/dash-live11/streams/1tv/1tvdash1-12hFrag-hd-1-20191031T075343_000546471.mp4
 #EXTINF:-1,ТНТ HD
 http://85.112.114.11:8086/udp/233.170.170.78:58631
 #EXTINF:-1,ТНТ4 HD
