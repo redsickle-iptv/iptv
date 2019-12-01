@@ -46,3 +46,6 @@ http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/914/index.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 #EXTINF:-1,Мир 24 HD
 http://85.112.114.11:8086/udp/233.170.170.114:58631
+#EXTINF:-1,MTV HD
+#EXTGRP:Музыкальные
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
