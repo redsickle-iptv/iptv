@@ -10,6 +10,9 @@ http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
 #EXTINF:0 tvg-id="Shant.am",ARTN Shant TV
 #EXTGRP:Армянские
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
+#EXTINF:0 tvg-id="Kentron.am",Kentron
+#EXTGRP:Армянские
+http://ott-cdn.ucom.am/s5/04.m3u8
 #EXTINF:-1,Первый канал HD
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
