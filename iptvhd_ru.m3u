@@ -34,63 +34,6 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:0 tvg-id="ext",HorizonTV Armenia
 #EXTGRP:Армянские
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:0 tvg-id="YerkirMedia.am",Yerkir Media
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s7/04.m3u8
-#EXTINF:0 tvg-id="AR.am",AR
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s9/04.m3u8
-#EXTINF:0,5TV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s6/04.m3u8
-#EXTINF:0 tvg-id="21",Dar 21
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s10/04.m3u8
-#EXTINF:0 tvg-id="ext",Azatutyun
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s3/04.m3u8
-#EXTINF:0 tvg-id="ArmNews.am",ArmNews
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s11/04.m3u8
-#EXTINF:0 tvg-id="Shoxakat.am",Shoxakat
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s13/04.m3u8
-#EXTINF:0 tvg-id="ATV.am",ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s8/04.m3u8
-#EXTINF:0 tvg-id="ATV.am",Filmzone ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s48/04.m3u8
-#EXTINF:0 tvg-id="ATV.am",Xaxaliq ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s74/index.m3u8
-#EXTINF:0 tvg-id="ATV.am",Kinoman ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s94/04.m3u8
-#EXTINF:0 tvg-id="ATV.am",Tava TV ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s53/04.m3u8
-#EXTINF:0 tvg-id="ATV.am",Hay TV ATV
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s73/04.m3u8
-#EXTINF:0 tvg-id="UPremium.am",Premium 1
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s83/04.m3u8
-#EXTINF:0 tvg-id="ext",Haykino 2
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s22/04.m3u8
-#EXTINF:0 tvg-id="ext",JanTV 3
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s42/index.m3u8
-#EXTINF:0 tvg-id="ext",Komedy 4
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s32/index.m3u8
-#EXTINF:0 tvg-id="ext",Tuntunik 5
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s46/index.m3u8
-#EXTINF:0 tvg-id="ext",Cinema 6
-#EXTGRP:Армянские
-http://ott-cdn.ucom.am/s66/index.m3u8
 #EXTINF:-1,Первый канал HD
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
