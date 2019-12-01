@@ -16,6 +16,9 @@ http://ott-cdn.ucom.am/s5/04.m3u8
 #EXTINF:0 tvg-id="ArmeniaTV.am",Armenia TV
 #EXTGRP:Армянские
 http://ott-cdn.ucom.am/s4/04.m3u8
+#EXTINF:0 tvg-id="ArmeniaTV.am",USArmenia
+#EXTGRP:Армянские
+http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:-1,Первый канал HD
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
