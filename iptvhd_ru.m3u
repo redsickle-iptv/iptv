@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 ,Россия 1 HD
+http://stream-nexttv.comboplayer.ru/hlsl/1/Rossiya_HD/04.m3u8
+#EXTINF:0,Armenia TV HD
+#EXTGRP:unsorted
+http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/71.ts
+#EXTINF:-1,Первый канал HD
+http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
+#EXTINF:-1,ТНТ HD
+http://85.112.114.11:8086/udp/233.170.170.78:58631
+#EXTINF:-1,НТВ HD (720)
+http://140hotstp28.a.trbcdn.net/livemaster/cfd99gu0ai_nntv_tv/playlist.m3u8
+#EXTINF:-1,Новый Мир
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1,Наш Детектив HD (720)
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/915/index.m3u8
+#EXTINF:-1,Наш Кинороман HD (720)
+http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/914/index.m3u8
+#EXTINF:-1,Мир 24 HD
+http://85.112.114.11:8086/udp/233.170.170.114:58631
