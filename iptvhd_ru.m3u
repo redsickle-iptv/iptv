@@ -28,8 +28,8 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:0 tvg-id="ext",HorizonTV Armenia
 #EXTGRP:Армянские
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:-1, Первый канал
-http://rt-ct-yarl-htlive.cdn.ngenix.net/hls/CH_R03_OTT_CT_YARL_1TV/variant.m3u8?version=2
+#EXTINF:-1,Первый канал Евразия
+http://109.248.236.41:4433/udp/238.1.1.7:1234
 #EXTINF:-1,Первый канал HD
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
