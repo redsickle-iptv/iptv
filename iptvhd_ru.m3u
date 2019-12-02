@@ -53,7 +53,7 @@ http://85.112.114.11:8086/udp/233.170.170.114:58631
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,Russian Music Box HD
 #EXTGRP:Музыкальные
-https://ext-strm-telia02.strm.yandex.net/kal/rmbox/rmbox0_169_1080p.json/init-v1-x2.mp4?start_chunk_ts=1575309600&vsid=20338a12fdff68bf01096a2c601a46ffb997a89c0470xWEBx2622x1575312766&lid=1501&adsid=8082b9a15efaac4dedc0ad10998509d9e3706b6dd0b1xWEBx2622x1575312766&gzip=1&partner_id=274296&reqid=1575312768.52594.176700.2447&target_ref=https%3A%2F%2Fyastatic.net&uuid=42c22ac1ec3b1d7ca2191ea491fdcace
+http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2&hd
 #EXTINF:-1,Карусель
 #EXTGRP:Детские
 http://109.248.236.41:4433/udp/238.1.1.45:1234
