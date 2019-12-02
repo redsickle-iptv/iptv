@@ -28,9 +28,6 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:0 tvg-id="ext",HorizonTV Armenia
 #EXTGRP:Армянские
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
-#EXTINF:0,SONG TV HD (Armenia)
-#EXTGRP:Армянские
-http://mtvam.ru/hlsam/high/playlist.m3u8
 #EXTINF:-1,Первый канал
 https://cdn10.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd?e=1575240239
 #EXTINF:-1,Первый канал HD (+4)
@@ -57,6 +54,3 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,Russian Music Box HD
 #EXTGRP:Музыкальные
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAN_MUSICBOXHD/variant.m3u8?version=2&hd
-#EXTINF:-1,Карусель
-#EXTGRP:Детские
-http://109.248.236.41:4433/udp/238.1.1.45:1234
