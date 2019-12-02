@@ -29,7 +29,7 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTGRP:Армянские
 http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:-1,Первый канал
-http://188.35.9.5:10005/stolen/103r/imposter.rar
+http://31.40.128.20/hls/001_perviy.m3u8
 #EXTINF:-1,Первый канал HD (+4)
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
