@@ -51,6 +51,9 @@ http://85.112.114.11:8086/udp/233.170.170.114:58631
 #EXTINF:-1,MTV HD
 #EXTGRP:Музыкальные
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1,Russian Music Box HD
+#EXTGRP:Музыкальные
+https://mhd.limehd.tv/p/M6Qqr6iQWRDTO7weeZCgMg,1575393801/streaming/musicbox/324/vh1/playlist.m3u8
 #EXTINF:-1,Карусель
 #EXTGRP:Детские
 http://109.248.236.41:4433/udp/238.1.1.45:1234
