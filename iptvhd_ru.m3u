@@ -28,6 +28,9 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 #EXTINF:0 tvg-id="ext",HorizonTV Armenia
 #EXTGRP:Армянские
 http://5.254.76.34:17070/C441/index.m3u8?token=kdsdkwy453wrRq29IIIo
+#EXTINF:0,SONG TV HD (Armenia)
+#EXTGRP:Армянские
+http://mtvam.ru/hlsam/high/playlist.m3u8
 #EXTINF:-1,Первый канал
 https://cdn10.1internet.tv/dash-live11/streams/1tv/1tvdash.mpd?e=1575240239
 #EXTINF:-1,Первый канал HD (+4)
