@@ -53,7 +53,7 @@ http://85.112.114.11:8086/udp/233.170.170.114:58631
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,Russian Music Box HD
 #EXTGRP:Музыкальные
-https://strm.yandex.ru/kal/rmbox/manifest.mpd?from=http://russianmusicbox.tv&partner_id=274296&target_ref=https://yastatic.net&uuid=4d76800bfc3a4a5b97b0ab8efc6603ce&video_category_id=1017&clid=495&yandexuid=4770874671575159637&slots=null&dvr=300&partner-id=274296&video-category-id=1017&gzip=1&from_block=other&vsid=4f9aff44fea82f9e0ba4f5971f7c4a0ea10d8e250ba5xWEBx2914x1575311849&adsid=0fe552b0e6321610f0d428ec67dae4cd4c326fe94443xWEBx2914x1575311849&offset=20
+https://ext-strm-telia02.strm.yandex.net/kal/rmbox/rmbox0_169_1080p.json/init-v1-x2.mp4?start_chunk_ts=1575309600&vsid=20338a12fdff68bf01096a2c601a46ffb997a89c0470xWEBx2622x1575312766&lid=1501&adsid=8082b9a15efaac4dedc0ad10998509d9e3706b6dd0b1xWEBx2622x1575312766&gzip=1&partner_id=274296&reqid=1575312768.52594.176700.2447&target_ref=https%3A%2F%2Fyastatic.net&uuid=42c22ac1ec3b1d7ca2191ea491fdcace
 #EXTINF:-1,Карусель
 #EXTGRP:Детские
 http://109.248.236.41:4433/udp/238.1.1.45:1234
