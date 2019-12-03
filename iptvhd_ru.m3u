@@ -56,3 +56,10 @@ http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,Russian Music Box HD
 #EXTGRP:Музыкальные
 https://mhd.limehd.tv/p/BrQ7SP4lvDSqwCG5X9FBZQ,1575407856/streaming/musicbox/324/vh1/playlist.m3u8
+#EXTINF:-1 ,SONG TV Russia [FHD]
+#EXTGRP:Музыкальные
+https://songtvru.ru/hd/playlist.m3u8
+#EXTINF:-1 ,SONG TV Armenia [FHD]
+#EXTGRP:Армянские
+https://songtvam.ru/hd/playlist.m3u8
+
