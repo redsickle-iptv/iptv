@@ -59,4 +59,6 @@ https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 ,1HD
 #EXTGRP:Музыкальные
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 ,ACB TV (9 волна)
+#EXTGRP:Музыкальные
+https://vsd0.mycdn.me/dash/stream_127723244243/stream.manifest/sig/VSaBE_FjAGo/expires/1575583749284/srcIp/185.217.68.199/clientType/0/srcAg/CHROME/stream-medium.jidx?_rnd=650196254
