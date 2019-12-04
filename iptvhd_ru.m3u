@@ -54,8 +54,7 @@ https://mhd.limehd.tv/p/BrQ7SP4lvDSqwCG5X9FBZQ,1575407856/streaming/musicbox/324
 #EXTGRP:Музыкальные
 https://songtvru.ru/hd/playlist.m3u8
 #EXTINF:-1 ,SONG TV Armenia [FHD]
-#EXTGRP:Армянские
-#EXTGRP:Музыкальные
+#EXTGRP:Армянские,Музыкальные
 https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 ,1HD
 #EXTGRP:Музыкальные
