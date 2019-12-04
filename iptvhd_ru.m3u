@@ -56,4 +56,7 @@ https://songtvru.ru/hd/playlist.m3u8
 #EXTINF:-1 ,SONG TV Armenia [FHD]
 #EXTGRP:Армянские
 https://songtvam.ru/hd/playlist.m3u8
+#EXTINF:-1 ,1HD
+#EXTGRP:Музыкальные
+https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 
