@@ -59,3 +59,5 @@ https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 ,1HD
 #EXTGRP:Музыкальные
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1,НТВ
+https://s21885.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=673203585&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDk6NTQ6NDMgUE0maGFzaF92YWx1ZT1CWlFKa0pKazRqem56Tzd0c3o5cE1BPT0mdmFsaWRtaW51dGVzPTIwMA==
