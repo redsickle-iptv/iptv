@@ -30,8 +30,8 @@ http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 http://85.112.114.11:8086/udp/233.170.170.78:58631
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
-#EXTINF:-1,НТВ HD (720)
-http://58560375.iptvzone.me/iptv/EG3X2MYNWZL5S2/213/index.m3u8
+#EXTINF:-1,НТВ
+https://s21885.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=673203585&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDk6NTQ6NDMgUE0maGFzaF92YWx1ZT1CWlFKa0pKazRqem56Tzd0c3o5cE1BPT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:-1,Наш Детектив HD (720)
@@ -59,5 +59,3 @@ https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 ,1HD
 #EXTGRP:Музыкальные
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1,НТВ
-https://s21885.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=673203585&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDk6NTQ6NDMgUE0maGFzaF92YWx1ZT1CWlFKa0pKazRqem56Tzd0c3o5cE1BPT0mdmFsaWRtaW51dGVzPTIwMA==
