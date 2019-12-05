@@ -61,6 +61,6 @@ https://songtvam.ru/hd/playlist.m3u8
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ACB TV (9 волна)
 #EXTGRP:Музыкальные
-https://vsd0.mycdn.me/dash/stream_127723244243/stream.manifest/sig/VSaBE_FjAGo/expires/1575583749284/srcIp/185.217.68.199/clientType/0/srcAg/CHROME/stream-medium.jidx?_rnd=650196254
+http://50.7.172.58:8081/10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5d73259a66bb0e0036a61a1715b211fcbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1 ,HUSTLER HD
 http://50.7.172.58:8081/10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg5d73259a66bb0e0036a61a1715b211fcbkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
