@@ -64,3 +64,6 @@ https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Матч ТВ HD
 #EXTGRP:Спортивные
 http://109.167.162.166:4022/udp/239.255.10.196:5500
+#EXTINF:-1, СТС Kids HD
+#EXTGRP:Детские
+http://46.182.128.11:4022/udp/239.54.6.108:1234
