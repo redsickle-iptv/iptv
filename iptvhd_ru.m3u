@@ -32,10 +32,10 @@ http://85.112.114.11:8086/udp/233.170.170.78:58631
 http://85.112.114.11:8086/udp/233.170.170.130:58631
 #EXTINF:-1,НТВ
 https://s21885.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=673203585&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDk6NTQ6NDMgUE0maGFzaF92YWx1ZT1CWlFKa0pKazRqem56Tzd0c3o5cE1BPT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:-1,НТВ (резерв)
+http://37.235.164.105:81/udp/225.50.66.204:1234
 #EXTINF:-1,Новый Мир
 http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
-#EXTINF:-1,Наш Детектив HD (720)
-http://37.235.164.105:81/udp/225.50.66.204:1234
 #EXTINF:-1,Наш Кинороман HD (720)
 http://50.7.92.82:8081/172/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNC8yMDE2IDU6MDE6NTgg312ed002409f19995faf016b7be8a3c5bkEyZk92TzJrU3V3PT0mdmFsaWRtaW51dGVzPTIwMA==
 #EXTINF:-1,Мир HD
