@@ -10,6 +10,12 @@ http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:0,Armenia TV HD
 #EXTGRP:Армянские
 http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/71.ts
+#EXTINF:-1 group-title="Армянские" tvg-id="147.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/147.png" tvg-name="Shant TV Premium",Shant TV Premium
+#EXTGRP:Армянские
+http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/81.ts
+#EXTINF:-1 group-title="Армянские" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/183.png" tvg-name="Армения ТВ",Армения ТВ
+#EXTGRP:Армянские
+http://tviptv.iptv-channel.ru:8000/live/www.tv-ip-tv.ru/iptv-free-channel/70.ts
 #EXTINF:0,TBN Armenia
 #EXTGRP:Армянские
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
