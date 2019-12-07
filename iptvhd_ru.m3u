@@ -1,29 +1,21 @@
 #EXTM3U
 #EXTINF:-1 ,Россия 1 HD
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
-#EXTINF:-1 ,AMGA TV HD
-#EXTGRP:Армянские
+#EXTINF:-1 group-title="Армянские",AMGA TV HD
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/timeshift_rel-30.m3u8
-#EXTINF:0 tvg-id="H1.am" tvg-logo="https://raw.githubusercontent.com/redsickle-iptv/iptv/master/icons/H1.jpg",H1 International
-#EXTGRP:Армянские
+#EXTINF:0 tvg-id="H1.am" group-title="Армянские" tvg-logo="https://raw.githubusercontent.com/redsickle-iptv/iptv/master/icons/H1.jpg",H1 International
 http://amtv1.livestreamingcdn.com/am2abr/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Армянские" tvg-id="147.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/147.png" tvg-name="Shant TV Premium",Shant TV Premium
-#EXTGRP:Армянские
 http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/81.ts
 #EXTINF:-1 group-title="Армянские" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/183.png" tvg-name="Армения ТВ",Армения ТВ
-#EXTGRP:Армянские
 http://tviptv.iptv-channel.ru:8000/live/www.tv-ip-tv.ru/iptv-free-channel/70.ts
-#EXTINF:0,TBN Armenia
-#EXTGRP:Армянские
+#EXTINF:0 group-title="Армянские",TBN Armenia
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
-#EXTINF:0 tvg-id="Shant.am",ARTN Shant TV
-#EXTGRP:Армянские
+#EXTINF:0 group-title="Армянские" tvg-id="Shant.am",ARTN Shant TV
 http://livestream.usatv.com/hls/m3u8/ARTN-NET.m3u8
-#EXTINF:0 tvg-id="ArmeniaTV.am",USArmenia
-#EXTGRP:Армянские
+#EXTINF:0 group-title="Армянские" tvg-id="ArmeniaTV.am",USArmenia
 http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
-#EXTINF:-1 ,Horizon TV HD
-#EXTGRP:Армянские
+#EXTINF:-1 group-title="Армянские",Horizon TV HD
 http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:0,Первый HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/204/index.m3u8
