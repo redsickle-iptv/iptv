@@ -29,6 +29,8 @@ http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 http://31.40.128.20/hls/001_perviy.m3u8
 #EXTINF:-1,Первый канал (резерв)
 http://37.235.164.105:81/udp/225.50.66.201:1234
+#EXTINF:0,Первый HD
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/204/index.m3u8
 #EXTINF:-1,Первый канал HD (+4)
 http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
