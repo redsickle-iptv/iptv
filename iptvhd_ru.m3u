@@ -33,8 +33,8 @@ http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 http://85.112.114.11:8086/udp/233.170.170.78:58631
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
-#EXTINF:-1,НТВ
-https://s21885.glaz.tv:8082/liveg/ntv-hq.stream/chunks.m3u8?nimblesessionid=673203585&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNS8yMDE5IDk6NTQ6NDMgUE0maGFzaF92YWx1ZT1CWlFKa0pKazRqem56Tzd0c3o5cE1BPT0mdmFsaWRtaW51dGVzPTIwMA==
+#EXTINF:0,НТВ HD
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/213/index.m3u8
 #EXTINF:-1,НТВ (резерв)
 http://37.235.164.105:81/udp/225.50.66.204:1234
 #EXTINF:-1,Новый Мир
@@ -62,9 +62,18 @@ https://songtvam.ru/hd/playlist.m3u8
 #EXTINF:-1 ,1HD
 #EXTGRP:Музыкальные
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/mono.m3u8
-#EXTINF:-1, Матч ТВ HD
+#EXTINF:0,Матч! Футбол 3 HD
 #EXTGRP:Спортивные
-http://109.167.162.166:4022/udp/239.255.10.196:5500
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/206/index.m3u8
+#EXTINF:0,Матч! Арена HD
+#EXTGRP:Спортивные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/207/index.m3u8
+#EXTINF:0,Матч! Футбол 2 HD
+#EXTGRP:Спортивные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/211/index.m3u8
+#EXTINF:0,Матч! HD
+#EXTGRP:Спортивные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/212/index.m3u8
 #EXTINF:-1, СТС Kids HD
 #EXTGRP:Детские
 http://46.182.128.11:4022/udp/239.54.6.108:1234
