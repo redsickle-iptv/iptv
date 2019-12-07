@@ -80,6 +80,12 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/220/index.m3u8
 #EXTINF:0,Матч! Футбол 1 HD (ilook.tv)
 #EXTGRP:Спортивные
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/222/index.m3u8
+#EXTINF:0,Матч! Игра HD (ilook.tv)
+#EXTGRP:Спортивные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/225/index.m3u8
+#EXTINF:0,Eurosport 1 HD (ilook.tv)
+#EXTGRP:Спортивные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/228/index.m3u8
 #EXTINF:-1, СТС Kids HD
 #EXTGRP:Детские
 http://46.182.128.11:4022/udp/239.54.6.108:1234
