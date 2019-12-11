@@ -30,7 +30,7 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/213/index.m3u8
 #EXTINF:-1,НТВ (резерв)
 http://37.235.164.105:81/udp/225.50.66.204:1234
 #EXTINF:-1 group-title="Развлекательные" tvg-id="96.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/96.png" tvg-name="Рен ТВ",Рен ТВ
-http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/8.ts
+https://sr2.24tv.org:30443/hls/ren/chunks.m3u8?nimblesessionid=1018773&wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTEvMjAxOSA2OjU1OjQ3IFBNJmhhc2hfdmFsdWU9Wkx6RU5GQlgyT0R6UmtOdS9OWGRDZz09JnZhbGlkbWludXRlcz02MA==
 #EXTINF:-1 group-title="Развлекательные",Рен ТВ (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/128/index.m3u8
 #EXTINF:-1,Новый Мир
