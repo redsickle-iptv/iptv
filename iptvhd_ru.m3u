@@ -7,6 +7,10 @@ https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/timeshift_rel-30.m3u8
 http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/81.ts
 #EXTINF:0 group-title="Армянские" tvg-logo="https://raw.githubusercontent.com/redsickle-iptv/iptv/master/icons/H1.jpg",Առաջին Ալիք
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/601/index.m3u8
+#EXTINF:0 group-title="Армянские",Դար 21
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/602/index.m3u8
+#EXTINF:0 group-title="Армянские",Հ2
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/603/index.m3u8
 #EXTINF:0 group-title="Армянские",Շանթ
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/604/index.m3u8
 #EXTINF:0 group-title="Армянские",SHANT Music HD
