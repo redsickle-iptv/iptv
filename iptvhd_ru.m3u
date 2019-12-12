@@ -57,22 +57,14 @@ http://livestream.usatv.com/hls/m3u8/USARMENIA720.m3u8
 http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:0,Первый HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/204/index.m3u8
-#EXTINF:-1,Первый канал HD (+4)
-http://streamer.sktv.peers.tv/streaming/1kanal_hd/364/copy/playlist.m3u8
 #EXTINF:-1,ТНТ HD
 http://85.112.114.11:8086/udp/233.170.170.78:58631
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
 #EXTINF:0,НТВ HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/213/index.m3u8
-#EXTINF:-1,НТВ (резерв)
-http://37.235.164.105:81/udp/225.50.66.204:1234
 #EXTINF:-1 group-title="Развлекательные" tvg-id="96.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/96.png" tvg-name="Рен ТВ",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
-#EXTINF:-1 group-title="Развлекательные",Рен ТВ (ilook.tv)
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/128/index.m3u8
-#EXTINF:-1,Новый Мир
-http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
 #EXTINF:0,Наш Кинороман HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/914/index.m3u8
 #EXTINF:-1,Мир HD
@@ -122,12 +114,6 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/228/index.m3u8
 #EXTINF:0,Eurosport 2 North-East HD (ilook.tv)
 #EXTGRP:Спортивные
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/234/index.m3u8
-#EXTINF:-1, СТС Kids HD
-#EXTGRP:Детские
-http://46.182.128.11:4022/udp/239.54.6.108:1234
-#EXTINF:-1, Карусель
-#EXTGRP:Детские
-http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/59.ts
 #EXTINF:-1, Карусель (ilook.tv)
 #EXTGRP:Детские
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/156/index.m3u8
@@ -137,6 +123,3 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/240/index.m3u8
 #EXTINF:0,Мультик HD (ilook.tv)
 #EXTGRP:Детские
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/921/index.m3u8
-#EXTINF:0,Оплот ТВ
-https://video-weaver.lhr03.hls.ttvnw.net/v1/playlist/Cq8EQHwYQURvU6Sw3TXIdTcjFd7JAgh66b1c75kLUNudaW81Wvx407rVe5Az_4b8GGzHVmrpXiaEGL04GYZ6bFZEl0Yddj9piFMEJf8ORIGWKbLAU4_ytdeNDODvRJReXrTFGgINngTiQRlSIm_T-soOlJkddrMEcexw9i1_7aJJ_hzGxTIy9AR4F4lY9sfkf2AElsPm5IbKPD0ziM5zWNSBT2TuveYe6xEACy5N7DBw7bRIZPVxtkMVqe-3iJglK5aqVBLtBHKsdILgn2SXNEtHq_drLHQzO3dIvGU7bYvUCUH_NBDSWZJB5vcAfR2k0eWtxq3MULn4jAse5UI0wvB3lZN9IZ--xaJGdkJ7eRs-h9KVRA-NmIVouS5CL7sDz6Ad_lt6RiwF8mEaboGeFJjKy05YzG_NvhR9o9SJLRapaTiurZhkz83-XelETYNoqWAg7TSZ4DbeM7H4YExQ6SnRjXfEA6Bsgixe0wsO8P0G5Jyn8wlWK41_wraLE7vTf0Z962vnSe9NRA2yr8bMmF5kJHHysigIjhvQ-_7htIH5SL2qiyFsM6pCZ6IvB3xd88cQg7bFoZ2BkX3jDssIr-kAcXvSD2IZK9Lt8JGmKc-lgadJCHLd76LhnbHxAkq-meCVT4-DryCneKh9Ndb1AGooTk5ApfkNoz2CiCqlfdMBQCWx8-3oeDhqWEfI4u1x9FEEkvZKbK2qrYN57IXnSYXp9ga36o9kGD7d_Zsd2_1mMBIQMDQYjEebdZrqrV1kO0O2eBoMqlxTSHSpzazC0v-7.m3u8
-
