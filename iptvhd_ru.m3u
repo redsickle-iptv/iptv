@@ -13,6 +13,9 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2167/index.m3u8
 #EXTINF:0,Shant Serial HD
 #EXTGRP:Армянские
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2168/index.m3u8
+#EXTINF:0,Shant News HD
+#EXTGRP:Армянские
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2169/index.m3u8
 #EXTINF:-1 group-title="Армянские" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/183.png" tvg-name="Армения ТВ",Армения ТВ
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/605/index.m3u8
 #EXTINF:0 group-title="Армянские",TBN Armenia
