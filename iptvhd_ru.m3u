@@ -7,10 +7,10 @@ https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/timeshift_rel-30.m3u8
 http://tviptv.iptv-channel.ru:8000/live/live/BtoRItdEdS/81.ts
 #EXTINF:0 group-title="Армянские" tvg-logo="https://raw.githubusercontent.com/redsickle-iptv/iptv/master/icons/H1.jpg",Առաջին Ալիք
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/601/index.m3u8
-#EXTINF:0 group-title="Армянские",Դար 21
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/602/index.m3u8
-#EXTINF:0 group-title="Армянские",Հ2
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/603/index.m3u8
+#EXTINF:0 group-title="Армянские",Կենտրոն
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/606/index.m3u8
+#EXTINF:0 group-title="Армянские",ATV
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/609/index.m3u8
 #EXTINF:0 group-title="Армянские",Շանթ
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/604/index.m3u8
 #EXTINF:0 group-title="Армянские",SHANT Music HD
@@ -21,6 +21,38 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2168/index.m3u8
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2169/index.m3u8
 #EXTINF:-1 group-title="Армянские" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/183.png" tvg-name="Армения ТВ",Армения ТВ
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/605/index.m3u8
+#EXTINF:0 group-title="Армянские",Արմնյուզ
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/611/index.m3u8
+#EXTINF:0 group-title="Армянские",MO TV
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/612/index.m3u8
+#EXTINF:0 group-title="Армянские",5-րդ ալիք
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/620/index.m3u8
+#EXTINF:0 group-title="Армянские",Armenia Premium
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/273/index.m3u8
+#EXTINF:0 group-title="Армянские",ՖՒԼՄԶՈՆ
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/275/index.m3u8
+#EXTINF:0 group-title="Армянские",ԽԱՂԱԼԻՔ
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/276/index.m3u8
+#EXTINF:0 group-title="Армянские",ՀԱՅ TV
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/280/index.m3u8
+#EXTINF:0 group-title="Армянские",ԹԱՎԱ TV
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/281/index.m3u8
+#EXTINF:0 group-title="Армянские",ԿԻՆՈՄԱՆ
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/282/index.m3u8
+#EXTINF:0 group-title="Армянские",սինեման
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/283/index.m3u8
+#EXTINF:0 group-title="Армянские",նոր ՀԱՅԱՍՏԱՆ
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/612/index.m3u8
+#EXTINF:0 group-title="Армянские",ֆիտնես
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/287/index.m3u8
+#EXTINF:0 group-title="Армянские",մուզզոն
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/288/index.m3u8
+#EXTINF:0 group-title="Армянские",Բազմոց tv
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/289/index.m3u8
+#EXTINF:0 group-title="Армянские",հայ կինո
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/286/index.m3u8
+#EXTINF:0 group-title="Армянские",Luys TV
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/2165/index.m3u8
 #EXTINF:0 group-title="Армянские",TBN Armenia
 http://bogtvhdlive-f.akamaihd.net/i/tbn_armenia@198331/index_500_av-p.m3u8
 #EXTINF:0 group-title="Армянские" tvg-id="Shant.am",ARTN Shant TV
