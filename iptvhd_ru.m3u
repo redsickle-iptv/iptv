@@ -123,3 +123,6 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/240/index.m3u8
 #EXTINF:0,Мультик HD (ilook.tv)
 #EXTGRP:Детские
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/921/index.m3u8
+#EXTINF:0,English Club TV
+#EXTGRP:Познавательные
+http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/993/index.m3u8
