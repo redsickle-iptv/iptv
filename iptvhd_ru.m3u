@@ -114,9 +114,9 @@ http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/228/index.m3u8
 #EXTINF:0,Eurosport 2 North-East HD (ilook.tv)
 #EXTGRP:Спортивные
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/234/index.m3u8
-#EXTINF:-1, Карусель (ilook.tv)
+#EXTINF:-1, Карусель
 #EXTGRP:Детские
-http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/156/index.m3u8
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net:80/hls/CH_R01_KARUSEL/variant.m3u8
 #EXTINF:0,Тлум HD (ilook.tv)
 #EXTGRP:Детские
 http://31hmi9qv.megogo.xyz/iptv/ZWG634UNE7NE8C/240/index.m3u8
