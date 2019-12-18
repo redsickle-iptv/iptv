@@ -58,7 +58,7 @@ http://5.254.76.34:17070/C441/tracks-v1a1/mono.m3u8?token=kdsdkwy453wrRq29IIIo
 #EXTINF:0,Первый HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/204/index.m3u8
 #EXTINF:-1,ТНТ HD
-http://85.112.114.11:8086/udp/233.170.170.78:58631
+http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/237/index.m3u8
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
 #EXTINF:0,НТВ HD (ilook.tv)
