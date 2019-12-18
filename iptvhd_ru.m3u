@@ -69,8 +69,9 @@ http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/13.ts
 http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/137.ts
 #EXTINF:-1 group-title="Развлекательные" tvg-id="96.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/96.png" tvg-name="Рен ТВ",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
-#EXTINF:-1 tvg-ID="" tvg-name="Рен ТВ" tvg-logo="" ,Рен ТВ (tv-ip-tv.ru)
-http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/8.ts
+#EXTINF:0,Рен ТВ HD (ilook.tv)
+#EXTGRP:HD
+http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/2024/index.m3u8
 #EXTINF:0,Наш Кинороман HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/914/index.m3u8
 #EXTINF:-1,Мир HD
