@@ -61,6 +61,8 @@ http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/204/index.m3u8
 http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/237/index.m3u8
 #EXTINF:-1,ТНТ4 HD
 http://85.112.114.11:8086/udp/233.170.170.130:58631
+#EXTINF:0,НТВ HD
+http://188.35.9.5:10007/stolen/141n/parasite.install
 #EXTINF:0,НТВ HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/213/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="СТС" tvg-logo="",СТС
