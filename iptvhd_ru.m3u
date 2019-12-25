@@ -84,7 +84,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1,Russian Music Box HD
 #EXTGRP:Музыкальные
-https://strm.yandex.ru/kal/rmbox/manifest.mpd?from=videohub&partner_id=274296&&uuid=41d88c67b5235f6fbf6206ab337cab52&partner-id=274296&gzip=1&slots=null&vsid=15fddd71a52e6937c523260eb19377112da9f636cbb3xWEBx3007x1576442882&adsid=c1d3fbf2646253bbd9c48dedd759cdaada250a24b763xWEBx3007x1576442882
+https://strm.yandex.ru/kal/rmbox/rmbox0_169_1080p.json/index-v1-a1.m3u8
 #EXTINF:0,Russian Music Box
 #EXTGRP:Музыкальные
 http://31hmi9qv.megogo.xyz/iptv/HPQ8YNEE985DBC/2048/index.m3u8
