@@ -129,9 +129,9 @@ http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/228/index.m3u8
 http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/234/index.m3u8
 #EXTINF:-1, Карусель (-1)
 http://dmitry-tv.ru/his/itv_zabava/CH_KARUSEL-1.m3u8
-#EXTINF:-1, Карусель (tv-ip-tv.ru)
+#EXTINF:-1, Карусель (ilook.tv)
 #EXTGRP:Детские
-http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/59.ts
+http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/156/index.m3u8
 #EXTINF:0,Тлум HD (ilook.tv)
 #EXTGRP:Детские
 http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/240/index.m3u8
