@@ -3,7 +3,7 @@
 http://a3569458063-s26881.cdn.ngenix.net/hls/russia_hd/playlist_4.m3u8
 #EXTINF:-1 group-title="Армянские",AMGA TV HD
 https://streamer1.connectto.com/AMGA_WEB_1202/tracks-v1a1/timeshift_rel-30.m3u8
-#EXTINF:-1 group-title="Армянские" tvg-id="147.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/147.png" tvg-name="Shant TV Premium",Shant TV Premium (tv-ip-tv.ru)
+#EXTINF:-1 group-title="Армянские" tvg-id="147.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/147.png" tvg-name="Shant TV Premium",Shant TV Premium (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/2392/index.m3u8
 #EXTINF:0 group-title="Армянские" tvg-logo="https://raw.githubusercontent.com/redsickle-iptv/iptv/master/icons/H1.jpg",Առաջին Ալիք
 http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/601/index.m3u8
@@ -65,10 +65,10 @@ http://85.112.114.11:8086/udp/233.170.170.130:58631
 http://188.35.9.5:10007/stolen/141n/parasite.install
 #EXTINF:0,НТВ HD (ilook.tv)
 http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/213/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="СТС" tvg-logo="",СТС
-http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/13.ts
-#EXTINF:-1 tvg-ID="" tvg-name="СТС Love" tvg-logo="",СТС Love
-http://tviptv.iptv-channel.ru:8000/live/redsickle@rambler.ru/380950810297/137.ts
+#EXTINF:-1 tvg-ID="" tvg-name="СТС" tvg-logo="",СТС (ilook.tv)
+http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/506/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="СТС Love" tvg-logo="",СТС Love (ilook.tv)
+http://31hmi9qv.megogo.xyz/iptv/4FU3KV3Z9ZBF64/103/index.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-id="96.webarmen.com" tvg-logo="https://webarmen.com/my/iptv/uploads/icon/96.png" tvg-name="Рен ТВ",Рен ТВ
 http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8?hls_proxy_host=dtmf-01
 #EXTINF:0,Рен ТВ HD (ilook.tv)
